@@ -1,39 +1,39 @@
 [
   {
     "full_name": "GantMan/ReactStateMuseum",
-    "stargazers_count": 1486,
+    "stargazers_count": 1488,
     "open_issues_count": 21,
     "forks_count": 91
   },
   {
     "full_name": "rougier/scientific-visualization-book",
-    "stargazers_count": 6715,
+    "stargazers_count": 6772,
     "open_issues_count": 15,
-    "forks_count": 572
+    "forks_count": 580
   },
   {
     "full_name": "adobe/react-spectrum",
-    "stargazers_count": 6021,
-    "open_issues_count": 363,
-    "forks_count": 446
+    "stargazers_count": 6032,
+    "open_issues_count": 356,
+    "forks_count": 447
   },
   {
     "full_name": "cheatsheet1999/FrontEndCollection",
-    "stargazers_count": 1655,
+    "stargazers_count": 1656,
     "open_issues_count": 42,
-    "forks_count": 236
+    "forks_count": 237
   },
   {
     "full_name": "radix-ui/primitives",
-    "stargazers_count": 2960,
-    "open_issues_count": 97,
-    "forks_count": 92
+    "stargazers_count": 3002,
+    "open_issues_count": 99,
+    "forks_count": 93
   },
   {
     "full_name": "modulz/stitches",
-    "stargazers_count": 4662,
-    "open_issues_count": 69,
-    "forks_count": 123
+    "stargazers_count": 4701,
+    "open_issues_count": 71,
+    "forks_count": 126
   },
   {
     "full_name": "the-pudding/website",
@@ -43,32 +43,32 @@
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 160021,
-    "open_issues_count": 284,
-    "forks_count": 29645
+    "stargazers_count": 160653,
+    "open_issues_count": 282,
+    "forks_count": 29714
   },
   {
     "full_name": "android/compose-samples",
-    "stargazers_count": 10448,
-    "open_issues_count": 78,
-    "forks_count": 2253
+    "stargazers_count": 10478,
+    "open_issues_count": 79,
+    "forks_count": 2259
   },
   {
     "full_name": "afollestad/material-dialogs",
-    "stargazers_count": 19149,
-    "open_issues_count": 110,
-    "forks_count": 3138
+    "stargazers_count": 19153,
+    "open_issues_count": 108,
+    "forks_count": 3139
   },
   {
     "full_name": "skrapeit/skrape.it",
-    "stargazers_count": 469,
+    "stargazers_count": 475,
     "open_issues_count": 16,
     "forks_count": 43
   },
   {
     "full_name": "ponnamkarthik/RichLinkPreview",
     "stargazers_count": 191,
-    "open_issues_count": 23,
+    "open_issues_count": 24,
     "forks_count": 47
   },
   {
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "Solido/awesome-flutter",
-    "stargazers_count": 39154,
+    "stargazers_count": 39197,
     "open_issues_count": 38,
-    "forks_count": 5744
+    "forks_count": 5749
   },
   {
     "full_name": "singerdmx/flutter-quill",
-    "stargazers_count": 988,
-    "open_issues_count": 7,
-    "forks_count": 244
+    "stargazers_count": 994,
+    "open_issues_count": 4,
+    "forks_count": 246
   },
   {
     "full_name": "BertrandBev/code_field",
     "stargazers_count": 85,
     "open_issues_count": 11,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "TakuSemba/MultiSnapRecyclerView",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 3018,
+    "stargazers_count": 3026,
     "open_issues_count": 39,
-    "forks_count": 117
+    "forks_count": 118
   },
   {
     "full_name": "LiquidPlayer/LiquidCore",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "evgenyneu/js-evaluator-for-android",
-    "stargazers_count": 445,
+    "stargazers_count": 446,
     "open_issues_count": 19,
     "forks_count": 80
   },
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "maxkeppeler/sheets",
-    "stargazers_count": 718,
+    "stargazers_count": 720,
     "open_issues_count": 9,
     "forks_count": 52
   },
   {
     "full_name": "afollestad/recyclical",
-    "stargazers_count": 701,
+    "stargazers_count": 702,
     "open_issues_count": 12,
-    "forks_count": 60
+    "forks_count": 59
   },
   {
     "full_name": "nikhilpanju/FabFilter",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "MindorksOpenSource/android-developer-roadmap",
-    "stargazers_count": 2194,
+    "stargazers_count": 2195,
     "open_issues_count": 12,
-    "forks_count": 433
+    "forks_count": 434
   },
   {
     "full_name": "ibrahimsn98/SmoothBottomBar",
-    "stargazers_count": 1521,
+    "stargazers_count": 1526,
     "open_issues_count": 34,
-    "forks_count": 200
+    "forks_count": 202
   }
 ]
